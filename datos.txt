@@ -1,0 +1,11 @@
+El cuadrado de 10 es 100
+El cuadrado de 11 es 121
+El cuadrado de 30 es 900
+El cuadrado de 2 es 4
+El cuadrado de 2 es 4
+El cuadrado de 2 es 4
+El cuadrado de 2 es 4
+El cuadrado de 12 es 144
+El cuadrado de -1 es 1
+El cuadrado de -1 es 1
+El cuadrado de 10 es 100
